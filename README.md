@@ -1,2 +1,2 @@
-# go-helpers
+# ghelpers
 Helpers function fo go
