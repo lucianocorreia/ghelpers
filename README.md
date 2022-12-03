@@ -1,2 +1,7 @@
 # ghelpers
-Helpers function fo go
+
+Helpers function for go
+
+###### Install
+
+`go get github.com/lucianocorreia/ghelpers`
