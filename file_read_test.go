@@ -1,4 +1,4 @@
-package ghhelpers
+package ghelpers
 
 import (
 	"bytes"
